@@ -1,0 +1,26 @@
+# main links links
+main:
+#  - title: "Publications"
+#    url: /publications/
+
+  - title: "Publications"
+    url: /cv/
+  
+  - title: "Talks"
+    url: /talks/     
+    
+ # - title: "Projects"
+ #   url: /projects/
+
+ # - title: "Software"
+ #   url: /software/
+    
+ # - title: "teaching"
+ #   url: /teaching/   
+    
+ # - title: "Blog"
+ #   url: /year-archive/
+    
+  
+  # - title: "Group"
+  #   url: /people/
