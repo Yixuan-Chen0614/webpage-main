@@ -11,9 +11,9 @@ title                    : "Wenqian Yin"
 title_separator          : "-"
 name                     : &name "Wenqian Yin"
 description              : &description "PostDoc Fellow @HKU, Hong Kong SAR, China"
-url                      : https://wenqianyin.github.io/webpage/
+url                      : https://yixuan-chen0614.github.io/webpage-main/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://wenqianyin.github.io/webpage/"
+repository               : "https://yixuan-chen0614.github.io/webpage-main/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
