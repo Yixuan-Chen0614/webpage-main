@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenqian Yin"
+title                    : "Yixuan Chen"
 title_separator          : "-"
-name                     : &name "Wenqian Yin"
+name                     : &name "Yixuan Chen"
 description              : &description "PostDoc Fellow @HKU, Hong Kong SAR, China"
 url                      : https://yixuan-chen0614.github.io/webpage-main/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
