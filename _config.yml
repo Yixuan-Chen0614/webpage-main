@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yixuan Chen"
 title_separator          : "-"
 name                     : &name "Yixuan Chen"
-description              : &description "PostDoc Fellow @HKU, Hong Kong SAR, China"
+description              : &description "PhD student @HKU, Hong Kong SAR, China"
 url                      : https://yixuan-chen0614.github.io/webpage-main/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://yixuan-chen0614.github.io/webpage-main/"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author: 
-  name             : "Wenqian Yin"
-  avatar           : "wqyin.jpg"
-  bio              : "PostDoc Research Fellow @HKU"
+  name             : "Yixuan Chen"
+  avatar           : "YixuanChen.jpg"
+  bio              : "PhD student @HKU"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=w-p37TgAAAAJ&hl=en"
-  email            : "wqyin@eee.hku.hk"
+  googlescholar    : #"https://scholar.google.com/citations?user=w-p37TgAAAAJ&hl=en"
+  email            : "yxchen@eee.hku.hk"
   researchgate     : #"https://www.researchgate.net/profile/Ze_Jiang3"
   publons          : #"https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wenqianYIN"
+  github           : "Yixuan-Chen0614"
   google_plus      :
   keybase          :
   instagram        :
