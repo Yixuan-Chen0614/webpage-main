@@ -17,9 +17,6 @@ _Selected journal publications_:
 * **Y. Chen** and Y. Hou, 2022. "[Fast yet balanced trade-offs for multi-timescale multi-objective economic-environmental dispatch under varying conflicts](https://doi.org/10.1016/j.apenergy.2022.120122)," in *Applied Energy*,  vol. 328, 2022.
 
 
-2021
-======
-* B. Yang, T. Swe, **Y. Chen\*** and et. al, "[Energy cooperation between Myanmar and China under One Belt One Road: Current state, challenges and perspectives](https://doi.org/10.1016/j.energy.2020.119130)," in *Energy*, vol. 215, 15 January 2021. (*\*Corresponding author*)
 
 2020
 ======
