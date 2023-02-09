@@ -28,9 +28,6 @@ _Selected journal publications_:
 ======
 * **Y. Chen**, T. Yu, B. Yang, and X. Zhang, "[
 Many-objective optimal power dispatch strategy incorporating temporal and spatial distribution control of multiple air pollutants](https://ieeexplore.ieee.org/abstract/document/8632765)," in *IEEE Transactions on Industrial Informatics*, vol. 15, no. 9, pp. 5309 - 5319, 01 February 2019.
-
-2019
-======
 * **陈艺璇**, 余涛. 考虑大气污染物时空分布控制的多时间尺度协调多目标优化调度策略[J]. *中国电机工程学报*, 2019, 39(8):17.
 * **陈艺璇**, 张孝顺, 郭乐欣,等. 基于多智能体迁移强化学习算法的电力系统最优碳–能复合流求解[J]. *高电压技术*, 2019(3):10.
 
