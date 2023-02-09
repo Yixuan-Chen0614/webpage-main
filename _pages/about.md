@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yixuan Chen's personal homepage. 😆
+Hi👋, this is Yixuan Chen's personal homepage. 😆
 
 ## A short introduction
 I am currently pursuing the Ph.D degree in the Department of Electrical and Electronic Engineering, The University of Hong Kong. My supervisor is [Dr. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/). 
