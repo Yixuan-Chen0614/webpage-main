@@ -18,7 +18,7 @@ I am currently pursuing the Ph.D degree in the Department of Electrical and Elec
 * 👩🏻‍🎓 M.Eng. in Electrical Engineering, College of Electric Power, Guangzhou, Guangdong, China, 2019
    * 🧑🏻‍🏫 Supervisor: Prof. Tao Yu
 * 👩🏻‍🎓 Pursuing Ph.D. degree in Electrical Engineering, The University of Hong Kong, Hong Kong SAR, China.
-   * 🧑🏻‍🏫 Supervisor: Dr. Yunhe Hou
+   * 🧑🏻‍🏫 Supervisor: [Dr. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/). 
 
   
 <b>🤩 Research Interests:</b>
