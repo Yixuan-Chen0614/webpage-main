@@ -30,4 +30,4 @@ _Selected journal publications_:
 2019
 ======
 * **Y. Chen**, T. Yu, B. Yang, and X. Zhang, "[
-Many-Objective Optimal Power Dispatch Strategy Incorporating Temporal and Spatial Distribution Control of Multiple Air Pollutants](https://ieeexplore.ieee.org/abstract/document/8632765)," in IEEE Transactions on Industrial Informatics, vol. 15, no. 9, pp. 5309 - 5319, 01 February 2019.
+Many-Objective Optimal Power Dispatch Strategy Incorporating Temporal and Spatial Distribution Control of Multiple Air Pollutants](https://ieeexplore.ieee.org/abstract/document/8632765)," in *IEEE Transactions on Industrial Informatics*, vol. 15, no. 9, pp. 5309 - 5319, 01 February 2019.
