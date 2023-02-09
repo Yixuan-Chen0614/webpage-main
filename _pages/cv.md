@@ -14,7 +14,7 @@ _Selected journal publications_:
 
 2022
 ======
-* **Yixuan, Chen**, Y. Hou, 2022. "[Fast yet balanced trade-offs for multi-timescale multi-objective economic-environmental dispatch under varying conflicts](https://doi.org/10.1016/j.apenergy.2022.120122)," in *Applied Energy*,  vol. 328, 2022.
+* **Y., Chen** and Y. Hou, 2022. "[Fast yet balanced trade-offs for multi-timescale multi-objective economic-environmental dispatch under varying conflicts](https://doi.org/10.1016/j.apenergy.2022.120122)," in *Applied Energy*,  vol. 328, 2022.
 
 
 2021
